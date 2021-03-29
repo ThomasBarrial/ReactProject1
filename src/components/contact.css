@@ -15,6 +15,9 @@
     height: 48px;
   }
   
+  .Profil {
+      display: flex;
+  }
   /* Name */
   .Contact .name {
     margin: 0 0 0.25rem;
